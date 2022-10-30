@@ -1,0 +1,11 @@
+#290 byg:bayou
+#00A byg:cypress_swamplands
+#4F9 minecraft:dark_forest
+#045 byg:jacaranda_forest
+#1D8 byg:jacaranda_forest_hills
+#5F3 byg:meadow
+#379 minecraft:mountains
+#5FF minecraft:river
+#76B terraforged:savanna_scrub
+#4DC terraforged:warm_beach
+#186 byg:wooded_meadow
