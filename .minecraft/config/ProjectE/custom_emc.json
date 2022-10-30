@@ -1,0 +1,104 @@
+{
+  "entries": [
+    {
+      "item": "byg:mud_block",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:stick",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:stick_treated",
+      "emc": 0
+    },
+    {
+      "item": "tconstruct:nether_grout",
+      "emc": 0
+    },
+    {
+      "item": "tconstruct:grout",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:nether_quartz_wrench",
+      "emc": 0
+    },
+    {
+      "item": "cbs_shotgun:c_bshotgun{Damage:0}",
+      "emc": 0
+    },
+    {
+      "item": "cbs_shotgun:c_bshotgunshell",
+      "emc": 0
+    },
+    {
+      "item": "cbs_shotgun:c_bshotgun_mantle",
+      "emc": 0
+    },
+    {
+      "item": "aquaculture:iron_hook",
+      "emc": 0
+    },
+    {
+      "item": "aquaculture:gold_hook",
+      "emc": 0
+    },
+    {
+      "item": "aquaculture:diamond_hook",
+      "emc": 0
+    },
+    {
+      "item": "aquaculture:light_hook",
+      "emc": 0
+    },
+    {
+      "item": "aquaculture:heavy_hook",
+      "emc": 0
+    },
+    {
+      "item": "aquaculture:double_hook",
+      "emc": 0
+    },
+    {
+      "item": "aquaculture:redstone_hook",
+      "emc": 0
+    },
+    {
+      "item": "aquaculture:note_hook",
+      "emc": 0
+    },
+    {
+      "item": "aquaculture:nether_star_hook",
+      "emc": 0
+    },
+    {
+      "item": "byg:scoria_stone",
+      "emc": 0
+    },
+    {
+      "item": "byg:rocky_stone",
+      "emc": 0
+    },
+    {
+      "item": "byg:red_rock",
+      "emc": 0
+    },
+    {
+      "item": "byg:mossy_stone",
+      "emc": 0
+    },
+    {
+      "item": "byg:dacite",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:nugget_aluminum",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:ingot_aluminum",
+      "emc": 0
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+name = "Apple Cows"
+filename = "Apple Cows 1.4.1 - 1.16.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f49194ce2a594f197aeea1b5f3db8e20b1ba9f9f"
+
+[update]
+[update.curseforge]
+file-id = 3755542
+project-id = 399492

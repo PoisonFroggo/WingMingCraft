@@ -1,0 +1,14 @@
+name = "Extended Caves"
+filename = "extcaves-2.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "310b1b02c3a846e6254fc542ed804036ef75064e"
+
+[update]
+[update.curseforge]
+file-id = 3085297
+project-id = 338779

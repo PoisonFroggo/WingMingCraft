@@ -1,0 +1,14 @@
+name = "Mo' Structures (Forge)"
+filename = "mostructures-forge-1.2.0-1.16.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d853e2db45d87a5949fa495c7bd4099ee644a37a"
+
+[update]
+[update.curseforge]
+file-id = 3369347
+project-id = 491936

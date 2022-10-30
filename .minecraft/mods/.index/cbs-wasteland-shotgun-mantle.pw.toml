@@ -1,0 +1,14 @@
+name = "CBs Wasteland Shotgun + Mantle"
+filename = "CBs Shotgun + Mantle.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "6b3f978747bed9657068dadc370bde5f9548b008"
+
+[update]
+[update.curseforge]
+file-id = 3433084
+project-id = 518219

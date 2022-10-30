@@ -1,0 +1,14 @@
+name = "Mimic Mod"
+filename = "mimic-1.0.27.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "018d29c7225eca35abc5c10abcca8d4fe6434d26"
+
+[update]
+[update.curseforge]
+file-id = 3928132
+project-id = 475842
