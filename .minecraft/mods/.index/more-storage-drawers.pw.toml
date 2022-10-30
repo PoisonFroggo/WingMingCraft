@@ -1,0 +1,14 @@
+name = "More Storage Drawers"
+filename = "morestoragedrawers-1.16.5-1.1.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "3906086526bd62bc3972215d2b221c3a19a3e9d8"
+
+[update]
+[update.curseforge]
+file-id = 3742559
+project-id = 591494

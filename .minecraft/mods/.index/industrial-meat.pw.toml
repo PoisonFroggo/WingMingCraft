@@ -1,0 +1,14 @@
+name = "Industrial Meat"
+filename = "industrialmeat-1.16-1.0.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "84d98bb0360b111118fdf282941f6be57dbfe6e2"
+
+[update]
+[update.curseforge]
+file-id = 3358919
+project-id = 281525
