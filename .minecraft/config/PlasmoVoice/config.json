@@ -1,5 +1,9 @@
 {
   "servers": {
+    "147.135.105.225": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
     "127.0.0.1": {
       "distance": 16,
       "priorityDistance": 48
@@ -17,7 +21,7 @@
   "voiceActivationThreshold": -30.0,
   "microphoneAmplification": 1.0,
   "rnNoise": false,
-  "microphoneMuted": false,
+  "microphoneMuted": true,
   "javaxCapture": false,
   "hrtf": false,
   "directionalSources": false,
