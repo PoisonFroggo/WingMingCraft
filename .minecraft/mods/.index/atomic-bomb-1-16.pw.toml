@@ -1,0 +1,14 @@
+name = "Guns, Rockets and Atomic Explosions"
+filename = "nuclear_craft-1.16.5-0.9.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "aa115b53f5ff877d50930f244651f2bc67bab691"
+
+[update]
+[update.curseforge]
+file-id = 3358072
+project-id = 405952
