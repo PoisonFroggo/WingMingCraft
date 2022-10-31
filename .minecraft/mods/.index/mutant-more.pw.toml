@@ -1,0 +1,14 @@
+name = "Mutant More"
+filename = "mutantmore-1.16.5-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "b00822692b816f8e256456a27afc0fb6184418dc"
+
+[update]
+[update.curseforge]
+file-id = 3820528
+project-id = 539994
