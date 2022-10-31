@@ -1,0 +1,19 @@
+{
+	id: "68ea24eb-1058-4d58-881b-cfbe46e93be1"
+	type: "player"
+	player_name: "QuestforKing"
+	ranks: {
+		68ea24eb-1058-4d58-881b-cfbe46e93be1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "QuestforKing"
+		"ftbteams:color": "#FF59DC"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
