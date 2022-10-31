@@ -1,0 +1,14 @@
+name = "Archaic Guns"
+filename = "archaicguns-1.0-1.16.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "64d357ddddc998bbeaa10edcdaffcf1d10df6ffc"
+
+[update]
+[update.curseforge]
+file-id = 3511234
+project-id = 409882
