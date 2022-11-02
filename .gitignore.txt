@@ -1,3 +1,0 @@
-.minecraft/dumps/dump-1667150502095.txt
-.minecraft/journeymap/config/5.8/journeymap.minimap2.config
-.minecraft/journeymap/data/sp/BigMT/waypoints/Death-12-36-42-10-30-2022_215-60-145.json

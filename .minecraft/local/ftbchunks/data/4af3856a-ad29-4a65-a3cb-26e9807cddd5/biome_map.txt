@@ -1,4 +1,0 @@
-#34C byg:baobab_savanna
-#678 byg:fresh_water_lake
-#67B minecraft:savanna
-#76B terraforged:savanna_scrub
