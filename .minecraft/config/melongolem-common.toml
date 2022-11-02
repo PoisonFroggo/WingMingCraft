@@ -20,8 +20,8 @@ stabby = "stick"
 
 #Donator Settings
 ["Donator Settings"]
-	#Enables donator settings for yourself
-	enable = true
 	#Sets the mini-golem color for yourself (0xRRGGBB)
 	color = "0xFFFFFF"
+	#Enables donator settings for yourself
+	enable = true
 
