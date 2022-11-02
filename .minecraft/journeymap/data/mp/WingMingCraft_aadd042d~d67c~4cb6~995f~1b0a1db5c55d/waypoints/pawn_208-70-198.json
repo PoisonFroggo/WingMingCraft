@@ -1,0 +1,22 @@
+{
+  "id": "pawn_208-70-198",
+  "name": "pawn",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--9292325-waypoint-icon.png",
+  "x": 208,
+  "y": 70,
+  "z": 198,
+  "r": 114,
+  "g": 53,
+  "b": 219,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "LightBase_-472-89-1111",
+  "name": "LightBase",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--9773254-waypoint-icon.png",
+  "x": -472,
+  "y": 89,
+  "z": 1111,
+  "r": 106,
+  "g": 223,
+  "b": 58,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

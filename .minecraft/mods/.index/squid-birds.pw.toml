@@ -1,0 +1,14 @@
+name = "Squid-Birds"
+filename = "squidbirds_1.16.5_1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "27b5e1a6ad3e3f5078acf0905a74064b6b273a25"
+
+[update]
+[update.curseforge]
+file-id = 3907220
+project-id = 652953
