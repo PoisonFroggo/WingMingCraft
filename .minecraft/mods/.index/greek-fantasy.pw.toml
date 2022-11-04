@@ -1,0 +1,14 @@
+name = "Greek Fantasy"
+filename = "greekfantasy-16.5.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "12bc567e5fa0888ec2350cbee688ffeb606a5c50"
+
+[update]
+[update.curseforge]
+file-id = 3759581
+project-id = 413724

@@ -1,1 +1,18 @@
-{"bookGuiScale":0,"clickedVisualize":false,"bookData":{}}
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_nouveau:getting_started/learning_spells",
+        "ars_nouveau:machines/glyph_press"
+      ],
+      "bookmarks": [],
+      "history": [
+        "ars_nouveau:machines/glyph_press",
+        "ars_nouveau:getting_started/learning_spells"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
