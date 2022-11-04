@@ -1,0 +1,14 @@
+name = "Wyrmroost"
+filename = "Wyrmroost-1.16.3-1.2.11.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "1544dd74be53399285bb52663bb30a76e281dd42"
+
+[update]
+[update.curseforge]
+file-id = 3173775
+project-id = 340333
