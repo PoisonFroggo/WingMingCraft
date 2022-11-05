@@ -13,6 +13,22 @@
         "ars_nouveau:getting_started/learning_spells"
       ],
       "completedManualQuests": []
+    },
+    "occultism:dictionary_of_spirits": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "history": [],
+      "completedManualQuests": []
+    },
+    "feywild:feywild_lexicon": {
+      "viewedEntries": [
+        "feywild:feywild/handeling_fey"
+      ],
+      "bookmarks": [],
+      "history": [
+        "feywild:feywild/handeling_fey"
+      ],
+      "completedManualQuests": []
     }
   }
 }
