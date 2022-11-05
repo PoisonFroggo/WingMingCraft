@@ -1,0 +1,14 @@
+name = "Cutecore"
+filename = "Cutecore 1.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "57c56877f2f95b866546e1aad9f153c3686fde85"
+
+[update]
+[update.curseforge]
+file-id = 3276214
+project-id = 445867

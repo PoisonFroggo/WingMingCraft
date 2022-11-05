@@ -1,0 +1,14 @@
+name = "Rubber Duck"
+filename = "Rubber_Duck-1.16.5-2.0.0-beta.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "3ab7db085854a4de32612918702e5ac7d28dcafc"
+
+[update]
+[update.curseforge]
+file-id = 3579516
+project-id = 522039

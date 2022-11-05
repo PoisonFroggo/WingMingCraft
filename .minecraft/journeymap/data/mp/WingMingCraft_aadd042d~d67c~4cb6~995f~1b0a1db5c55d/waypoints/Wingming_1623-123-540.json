@@ -1,0 +1,22 @@
+{
+  "id": "Wingming_1623-123-540",
+  "name": "Wingming",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--7113369-waypoint-icon.png",
+  "x": 1623,
+  "y": 123,
+  "z": -540,
+  "r": 147,
+  "g": 117,
+  "b": 103,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

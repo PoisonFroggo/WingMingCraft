@@ -1,0 +1,14 @@
+name = "Morph"
+filename = "Morph-1.16.5-10.2.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "535d4f8a082c53e5a4053a97bb5cd3da4b4f8f5d"
+
+[update]
+[update.curseforge]
+file-id = 3802777
+project-id = 229080

@@ -1,0 +1,14 @@
+name = "Snow Pig [Forge]"
+filename = "Snow_Pig-1.16.5-2.4.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "c5247882c8bd5d86a100e105d1e6b31aa71d37fe"
+
+[update]
+[update.curseforge]
+file-id = 3564341
+project-id = 410500

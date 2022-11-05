@@ -1,0 +1,14 @@
+name = "Nef's Medieval decoration"
+filename = "NefsMedievalPub+v1.0(1.16.5).jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d0e017b01bcd4aa247b9e111f0733494ef232fc8"
+
+[update]
+[update.curseforge]
+file-id = 3593458
+project-id = 444384
