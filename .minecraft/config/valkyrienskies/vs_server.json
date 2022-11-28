@@ -1,9 +1,0 @@
-{
-  "enableInteractDistanceChecks" : true,
-  "transformTeleports" : true,
-  "enableMovementChecks" : false,
-  "preventFluidEscapingShip" : true,
-  "explosionBlastForce" : 500000.0,
-  "allowMobSpawns" : false,
-  "$schema" : "schemas/vs_server.schema.json"
-}
