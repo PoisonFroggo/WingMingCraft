@@ -1,0 +1,12 @@
+{
+  "author": "QuestforKing",
+  "forEntity": "iceandfire:myrmex_worker",
+  "traits": [
+    {
+      "type": "traitHostile"
+    },
+    {
+      "type": "abilityRideable"
+    }
+  ]
+}

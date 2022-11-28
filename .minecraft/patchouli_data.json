@@ -15,18 +15,54 @@
       "completedManualQuests": []
     },
     "occultism:dictionary_of_spirits": {
-      "viewedEntries": [],
+      "viewedEntries": [
+        "occultism:storage/stable_wormhole",
+        "occultism:storage/storage_controller"
+      ],
       "bookmarks": [],
-      "history": [],
+      "history": [
+        "occultism:storage/storage_controller",
+        "occultism:storage/stable_wormhole"
+      ],
       "completedManualQuests": []
     },
     "feywild:feywild_lexicon": {
       "viewedEntries": [
-        "feywild:feywild/handeling_fey"
+        "feywild:feywild/handeling_fey",
+        "feywild:feywild/introduction",
+        "feywild:feywild/seasonal_tree",
+        "feywild:feywild/fey_altar",
+        "feywild:feywild/alfheim",
+        "feywild:fey_gems/fey_ore",
+        "feywild:fey_gems/fey_dust",
+        "feywild:spring_court/spring_wood",
+        "feywild:spring_court/mandragora",
+        "feywild:summer_court/bee_knight"
       ],
       "bookmarks": [],
       "history": [
+        "feywild:summer_court/bee_knight",
+        "feywild:spring_court/mandragora",
+        "feywild:spring_court/spring_wood",
+        "feywild:fey_gems/fey_dust",
+        "feywild:fey_gems/fey_ore",
+        "feywild:feywild/alfheim",
+        "feywild:feywild/fey_altar",
+        "feywild:feywild/seasonal_tree",
+        "feywild:feywild/introduction",
         "feywild:feywild/handeling_fey"
+      ],
+      "completedManualQuests": []
+    },
+    "industrialforegoing:industrial_foregoing": {
+      "viewedEntries": [
+        "industrialforegoing:basics/fluid_extractor",
+        "industrialforegoing:tools/infinity_nuke"
+      ],
+      "bookmarks": [],
+      "history": [
+        "industrialforegoing:tools/infinity_nuke",
+        "industrialforegoing:basics/fluid_extractor"
       ],
       "completedManualQuests": []
     }

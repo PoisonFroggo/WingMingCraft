@@ -1,0 +1,22 @@
+{
+  "author": "QuestforKing",
+  "forEntity": "exoticbirds:ostrich",
+  "traits": [
+    {
+      "type": "traitHostile"
+    },
+    {
+      "amount": 1.0,
+      "type": "traitStepHeight"
+    },
+    {
+      "type": "abilityFlightFlap"
+    },
+    {
+      "type": "abilityRideable"
+    },
+    {
+      "type": "abilitySlowFall"
+    }
+  ]
+}

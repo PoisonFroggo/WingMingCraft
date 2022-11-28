@@ -1,0 +1,9 @@
+{
+  "author": "QuestforKing",
+  "forEntity": "doom:armoredbaron",
+  "traits": [
+    {
+      "type": "traitImmunityFire"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "author": "QuestforKing",
+  "forEntity": "minecraft:zombie",
+  "traits": [
+    {
+      "type": "traitHostile"
+    },
+    {
+      "classToIntimidate": "net.minecraft.entity.merchant.villager.AbstractVillagerEntity",
+      "distance": 8.0,
+      "farRunSpeed": 0.5,
+      "nearRunSpeed": 0.5,
+      "type": "traitIntimidate"
+    },
+    {
+      "type": "traitSunburn"
+    },
+    {
+      "type": "traitUndead"
+    },
+    {
+      "type": "abilityRideable"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "author": "QuestforKing",
+  "forClass": "mysticmods.mysticalworld.entity.SproutEntity",
+  "modifiers": [
+    {
+      "key": "variant",
+      "keep": true
+    }
+  ]
+}
