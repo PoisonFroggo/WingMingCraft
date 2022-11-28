@@ -6,7 +6,7 @@
 	#Allowed Values: INVENTORY, MOUSE_PICKUP
 	GiveMode = "MOUSE_PICKUP"
 	#Debug mode enabled
-	DebugMode = false
+	DebugMode = true
 	#Enable cheating items into the hotbar by using the shift+number keys.
 	CheatToHotbarUsingHotkeysEnabled = false
 	#Display search bar in the center

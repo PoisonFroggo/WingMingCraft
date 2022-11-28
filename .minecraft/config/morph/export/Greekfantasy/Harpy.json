@@ -1,0 +1,15 @@
+{
+  "author": "QuestforKing",
+  "forEntity": "greekfantasy:harpy",
+  "traits": [
+    {
+      "type": "traitFallNegate"
+    },
+    {
+      "type": "traitHostile"
+    },
+    {
+      "type": "abilityFlight"
+    }
+  ]
+}
